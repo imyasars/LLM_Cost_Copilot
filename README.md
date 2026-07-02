@@ -4,7 +4,7 @@
 
 ## The Problem
 
-Most teams route every prompt to GPT-4o. Over 60% of real-world prompts are simple Q&A, extraction, or formatting tasks that a $0.075/1M token model handles just as well.
+Most teams route every prompt to GPT-4o or Anthropic Opus & Sonnet.. Over 60% of real-world prompts are simple Q&A, extraction, or formatting tasks that a $0.075/1M token model handles just as well.
 
 ## The Solution
 
