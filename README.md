@@ -55,7 +55,6 @@ pip install -r requirements.txt
 
 # 2. Configure credentials
 cp .env.example .env
-# Edit .env and add your OPENROUTER_API_KEY
 
 # 3. Train the classifier
 python -m classifier.train
