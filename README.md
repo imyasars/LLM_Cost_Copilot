@@ -49,7 +49,7 @@ Prompt → Complexity Classifier → Routing Decision → Provider API
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/your-username/LLM_Cost_Autopilot.git
+git clone https://github.com/imyasars/LLM_Cost_Autopilot.git
 cd LLM_Cost_Autopilot
 pip install -r requirements.txt
 
