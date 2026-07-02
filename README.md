@@ -134,10 +134,6 @@ docker-compose up --build
 python scripts/load_test.py --total 500 --batch 10
 ```
 
-## Get Your OpenRouter API Key
-
-All 11 models (OpenAI, Anthropic, Google, DeepSeek, Meta) are accessed through a single [OpenRouter](https://openrouter.ai) key — no need for separate API accounts.
-
 ## License
 
 MIT
